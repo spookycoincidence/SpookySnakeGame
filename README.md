@@ -1,4 +1,5 @@
-![Snake](public/snakegame.png)
+![Snake](snakegame.png)
+
 
 ## Spooky Snake Game
 

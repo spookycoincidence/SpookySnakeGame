@@ -70,7 +70,8 @@ export default function GameBoard() {
           return prevSnake; // No avanzar más
         }
 
-        let newSnake = [newHead, ...prevSnake];
+        const newSnake = [newHead, ...prevSnake];
+
 
         if (newHead.x === food.x && newHead.y === food.y) {
           // Crece, no eliminar cola

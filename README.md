@@ -1,14 +1,14 @@
 ![Snake](snakegame.png)
 
 
-## Spooky Snake Game
+## 🐍 Spooky Snake Game
 
 Spooky Snake Game es un juego clásico de la serpiente desarrollado con Next.js y TailwindCSS.
 
-👉 **Deploy en Vercel**: 
+**Jugar ahora en Vercel 🕹️ **: [text](https://spooky-snake-game-9o3e.vercel.app/)
 
 
-## Características
+## ✨ Características
 * Juego clásico de la serpiente con movimiento suave y controles con teclado (flechas)
 * Pantalla de inicio, pausa y reinicio
 * Game over con opción de reiniciar partida
@@ -16,7 +16,9 @@ Spooky Snake Game es un juego clásico de la serpiente desarrollado con Next.js 
 * Código moderno en TypeScript con React hooks y Next.js 13 (app router)
 * Funciona en cualquier navegador moderno
 
-Instalación y uso
+---
+
+## 🚀 Instalación y uso
 1. Clonar el repositorio:
 ```bash
 git clone https://github.com/spookycoincidence/SpookySnakeGame.git
@@ -32,7 +34,7 @@ npm run dev
 ```
 4. Abrir http://localhost:3000 en el navegador
 
-## Estructura del proyecto
+## 🗂️ Estructura del Proyecto
 * src/app - Contiene las páginas y componentes principales (Next.js 13 app directory)
 * src/app/components/GameBoard.tsx - Lógica y renderizado del tablero del juego
 * public/ - Imágenes y assets estáticos
@@ -45,9 +47,9 @@ npm run dev
 * npm run lint - Corre el linter para detectar errores de código
 
 ## Tecnologías
-* Next.js 13
-* React 18
-* TypeScript
-* Tailwind CSS
+* ⚛️ Next.js 13
+* 🧠 React 18
+* 💜 TypeScript
+* 🔒 Tailwind CSS
 
 ## Desarrollado con ❤️ por spookycoincidence

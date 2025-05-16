@@ -5,8 +5,7 @@
 
 Spooky Snake Game es un juego clásico de la serpiente desarrollado con Next.js y TailwindCSS.
 
-**Jugar ahora en Vercel 🕹️ **: [text](https://spooky-snake-game-9o3e.vercel.app/)
-
+## Jugar ahora en Vercel 🕹️ : (https://spooky-snake-game-9o3e.vercel.app/)
 
 ## ✨ Características
 * Juego clásico de la serpiente con movimiento suave y controles con teclado (flechas)

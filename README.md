@@ -1,4 +1,4 @@
-![Spooky Snake Logo](/snakegame.png)
+![Snake](public/snakegame.png)
 
 ## Spooky Snake Game
 

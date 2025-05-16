@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+![Spooky Snake Logo](/snakegame.png)
 
-## Getting Started
+## Spooky Snake Game
 
-First, run the development server:
+Spooky Snake Game es un juego clásico de la serpiente desarrollado con Next.js y TailwindCSS.
 
+👉 **Deploy en Vercel**: 
+
+
+## Características
+* Juego clásico de la serpiente con movimiento suave y controles con teclado (flechas)
+* Pantalla de inicio, pausa y reinicio
+* Game over con opción de reiniciar partida
+* Diseño responsive y minimalista con Tailwind CSS
+* Código moderno en TypeScript con React hooks y Next.js 13 (app router)
+* Funciona en cualquier navegador moderno
+
+Instalación y uso
+1. Clonar el repositorio:
+```bash
+git clone https://github.com/spookycoincidence/SpookySnakeGame.git
+```
+2. Instalar dependencias:
+```bash
+cd SpookySnakeGame
+npm install
+```
+3. Correr la app en modo desarrollo:
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
+4. Abrir http://localhost:3000 en el navegador
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Estructura del proyecto
+* src/app - Contiene las páginas y componentes principales (Next.js 13 app directory)
+* src/app/components/GameBoard.tsx - Lógica y renderizado del tablero del juego
+* public/ - Imágenes y assets estáticos
+* styles/ - Estilos globales y configuración de Tailwind CSS
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Scripts disponibles
+* npm run dev - Inicia servidor de desarrollo
+* npm run build - Construye la app para producción
+* npm run start - Inicia servidor en modo producción
+* npm run lint - Corre el linter para detectar errores de código
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Tecnologías
+* Next.js 13
+* React 18
+* TypeScript
+* Tailwind CSS
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Desarrollado con ❤️ por spookycoincidence

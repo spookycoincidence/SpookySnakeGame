@@ -1,6 +1,5 @@
 
-![Snake](snakegame.png)
-
+![Snake](https://raw.githubusercontent.com/spookycoincidence/SpookySnakeGame/main/public/snakegame.png)
 
 ## 🐍 Spooky Snake Game
 

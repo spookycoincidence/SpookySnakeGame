@@ -1,5 +1,5 @@
 
-![Snake](spookysnakegame.png)
+![Snake](spooky.png)
 
 ## 🐍 Spooky Snake Game
 
